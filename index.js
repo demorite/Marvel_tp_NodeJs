@@ -156,6 +156,7 @@ function showMenu (character) {
 
 						for (index in data2) {
 							console.log(data2[index].title)
+							console.log(' ')
 						}
 						backMenu(character)
 					});
@@ -182,6 +183,7 @@ function showMenu (character) {
 
 						for (index in data2) {
 							console.log(data2[index].title)
+							console.log(' ')
 						}
 						backMenu(character)
 					});
@@ -207,6 +209,7 @@ function showMenu (character) {
 
 						for (index in data2) {
 							console.log(data2[index].title)
+							console.log(' ')
 						}
 						backMenu(character)
 					});
